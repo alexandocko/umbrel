@@ -1,6 +1,6 @@
 > Umbrel is licensed under the PolyForm Noncommercial License 1.0.0. Please refer to our [License FAQ](https://github.com/getumbrel/umbrel/wiki/License-FAQ) if you have any questions or reach out to us directly at support@umbrel.com.
 
-> **Personal fork note:** This is a personal fork for learning and experimentation purposes only. All original licensing terms below apply.
+> **Personal fork note:** This is a personal fork for learning and experimentation purposes only. All original licensing terms below apply. This fork will never be used for commercial purposes and is strictly for personal study and hobby experimentation.
 
 # PolyForm Noncommercial License 1.0.0
 
@@ -82,8 +82,4 @@ law. These terms do not limit them.
 ## No Other Rights
 
 These terms do not allow you to sublicense or transfer any of
-your licenses to anyone else, or prevent the licensor from
-granting licenses to anyone else.  These terms do not imply
-any other licenses.
-
-## Patent Def
+your license
